@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/slide_bck">
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:background="@color/slide_bck"
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.tabs.TabLayout
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="@color/slide_bck"
+            app:tabBackground="@drawable/tab_selector"
+            app:tabGravity="start"
+            app:tabIndicatorHeight="0dp"
+            tools:background="@color/slide_bck"
+            android:padding="8dp"/>
+
+    </androidx.viewpager.widget.ViewPager>
+
+
+    <ImageButton
+        android:focusable="true"
+        android:clickable="true"
+        android:id="@+id/btn_next"
+        android:layout_width="88dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/custom_button"
+        android:src="@drawable/arrow_forward_24"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

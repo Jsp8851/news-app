@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">News Daily</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- General Tab Name -->
+    <string name="name_general">General</string>
+    <!-- Technology Tab Name -->
+    <string name="name_tech">Technology</string>
+    <!-- Sports Tab Name -->
+    <string name="name_sports">Sports</string>
+    <!-- Entertainment Tab Name -->
+    <string name="name_entertainment">Entertainment</string>
+    <!-- Health Tab Name -->
+    <string name="name_health">Health</string>
+    <!-- Science Tab Name -->
+    <string name="name_science">Science</string>
+    <!-- Business Tab Name -->
+    <string name="name_business">Business</string>
+
+    <string name="read_more_button">READ MORE</string>
+
+    <string name="slide1_heading">Your one stop for daily news</string>
+    <string name="slide1_content">Read the article you want instantly. Keep yourself updated with the world.</string>
+
+    <string name="slide2_heading">Browse from various categories</string>
+    <string name="slide2_content">Read news from various categories and share the ones you like</string>
+
+    <string name="main_activity_heading">Explore Today\'s</string>
+    <string name="latest_news">Latest News</string>
+
+    <string name="contact_us">Contact Us</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="nav_developer_message">Developed by Vritant Jain</string>
+
+    <string name="developer_email">vritantjain2001@gmail.com</string>
+
+    <string name="slide_indicator_text">Swipe right for more news</string>
+
+    <string name="email_id">vritantjain2001@gmail.com</string>
+
+</resources>

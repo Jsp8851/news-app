@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115601661276",
+    "project_id": "news-daily-2c7df",
+    "storage_bucket": "news-daily-2c7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115601661276:android:88beda136a1f476f4b3599",
+        "android_client_info": {
+          "package_name": "com.projects.newsdaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115601661276-gmqo8ipdj2i196h1cb80ekqa3d3d50uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVI6onlXgBncuB8rGQ0ERwc_qjIvOwIqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115601661276-gmqo8ipdj2i196h1cb80ekqa3d3d50uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5754287069220750~7606013658"
+    }
+  ],
+  "configuration_version": "1"
+}

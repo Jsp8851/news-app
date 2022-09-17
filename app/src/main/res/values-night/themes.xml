@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="ThemeOverlay.NewsDaily.FullscreenContainer" parent="">
+        <item name="android:colorBackground">@color/light_blue_900</item>
+        <item name="android:textColor">@color/light_blue_A400</item>
+    </style>
+</resources>
